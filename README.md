@@ -34,3 +34,7 @@ see [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 ## thanks
 * [markdown-js](https://github.com/evilstreak/markdown-js)
 
+<<<<<<< HEAD
+=======
+Kevin is Owner, and is big-brained.
+>>>>>>> 17c8e3aa009eccbdd3d87cd36448ee46d5710020
