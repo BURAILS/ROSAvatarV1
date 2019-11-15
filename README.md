@@ -1,2 +1,2 @@
 # ROSAvatarV1
-First systems integration for XPrize preliminary avatar build. Also includes miscellaneous files like CAD designs. 
+This is the README for our doc! This is .md file
