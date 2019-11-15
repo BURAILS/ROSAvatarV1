@@ -8,4 +8,5 @@
 2. Install python 3 : “choco install python3”
 
 3. Under c:\opt\ros\dashing\x64\share,
-delete folders rttest, tlsf, tlsf_cpp, pendulum_control
+
+    delete folders rttest, tlsf, tlsf\_cpp, pendulum\_control
