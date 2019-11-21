@@ -3,7 +3,7 @@
 # Non-debian ROS Install
 ### This applies to Fedora, CentOS, Arch, etc.
 
-Fire up your favorite terminal emulator (I use terminator with tmux because I never managed to configure rxvt right) and pull up a track from [electronic gems](https://www.youtube.com/watch?v=8GW6sLrK40k). We'll now be using Robotics Operating System (ROS). It's unlikely we'll encounter anything that requires the cutting-edge latest version of ROS, so we'll be installing "ROS-Melodic" instead of ROS2. Eventually we might migrate to ROS2 but thusfar it appears that it can only be compiled from source (scratch) and pretty much has no active support. 
+Fire up your favorite terminal emulator (I use terminator with tmux because I never managed to configure rxvt right) and pull up a track from [electronic gems](https://www.youtube.com/watch?v=8GW6sLrK40k). We'll now install the Robotics Operating System (ROS). It's unlikely we'll encounter anything that requires the cutting-edge latest version of ROS, so we'll be installing "ROS-Melodic" instead of ROS2. Eventually we might migrate to ROS2 but thusfar it appears that it can only be compiled from source (scratch) and pretty much has no active support. 
 
 If you install an earlier version of ROS, like ROS-Kinetic, it ought to work. But don't quote me on that...
 
