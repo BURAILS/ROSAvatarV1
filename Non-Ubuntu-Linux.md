@@ -64,7 +64,7 @@ dnf remove *38 //again, refer to any package with a python38 dependency
 
 ```
 
-For any other distro, try `locate python38`. It's almost guaranteed that bash will say something like `command not found` or `python38 does not exist!`, but you get the point. Try to locate anything that's not python 2.8, and purge it from your system. Figure it out. 
+For any other distro, try `locate python38`. It's almost guaranteed that bash will say something like `command not found` or `python38 does not exist!`, but you get the point. Try to locate anything that's not python 2.8 and purge it from your system. Figure it out. 
 
 If you're on Arch, there's a good chance that AUR has something like Python-2.7....:
 ```
