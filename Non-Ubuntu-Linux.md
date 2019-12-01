@@ -8,7 +8,7 @@ Fire up your favorite terminal emulator (I use terminator with tmux because I ne
 If you install an earlier version of ROS, like ROS-Kinetic, it ought to work. But don't quote me on that...
 
 It also seems like ROS has official support for _only_ Windows and Ubuntu. Pretty typical, considering their users probably use Windows >95% of the time. For the rest of us, like Mac users and every-other-linux-distro users (btw i use arch), the install is usually a hit or miss. 
-
+ 
 Your default package manager like homebrew will probably have ROS/ROS dependencies. Relatively more obscure package managers/loaders, like snap and flatpak, will almost certainly not have it. 
 
 1. **Installing**
